@@ -1,0 +1,5 @@
+Artificial Intelligence is shaping the future.
+Python is widely used in AI and Data Science.
+File handling is an important concept in Python.
+Few-shot prompting improves model accuracy.
+This is the fifth task in our lab exercise.
